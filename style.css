@@ -1,0 +1,11 @@
+body{
+	font-family: sans-serif;
+}
+
+h3 {
+	margin: 5px;
+}
+
+path:hover{
+	fill-opacity: 0.5;
+}
